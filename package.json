@@ -1,11 +1,11 @@
 {
   "name": "Alphabot-Md",
   "version": "17.0.9",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
-  "main": "zeeone.js",
+  "description": "Alphabot Md, KECOT NO DEFENSE",
+  "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node zeeone.js"
+    "start": "node npm i -g pm2 && start index.js && pm2 && pm2 save && pm2 logs"
    },
   "keywords": [
     "whatsapp",
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "kecot no deff",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.9",
